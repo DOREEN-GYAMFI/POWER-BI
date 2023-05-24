@@ -1,4 +1,5 @@
 LIVING STANDARD AND DISASTER ANALYSIS OF INFORMAL SETTLEMENTS IN KHAN COMMUNITY SOUTH AFRICA
+
 The study identified notable differences between male and female-headed households in terms of education, income, and housing conditions. Additionally, both male and female-headed households face significant challenges related to natural disasters. A significant percentage of households had experienced either a flood or fire, with some experiencing both. Among households that had experienced these disasters, we identified several key trends, including a reliance on community water sources, a high number of self-built homes, and a lack of social education
 
 The Powerpoint explains key findings of the analysis
